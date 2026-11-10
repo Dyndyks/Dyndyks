@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет, я Python-разработчик! 👋
 
-<!--
-**Dyndyks/Dyndyks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу бэкенд на FastAPI, работаю с базами данных, интегрирую нейросети и разрабатываю игры на Unity.
 
-Here are some ideas to get you started:
+## 🛠 Мой стек
+- **Языки:** Python, C#
+- **Бэкенд:** FastAPI, WebSockets, PostgreSQL, SQLAlchemy, Aiogram
+- **ИИ и данные:** GigaChat API, Vosk (STT)
+- **Геймдев:** Unity, C#
+- **Инструменты:** Git, Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Мои главные проекты
+- 🎮 **[Call Center Game](https://github.com/Dyndyks/call-center-project)** — Клиент-серверная игра с ИИ. Игрок говорит в микрофон, Vosk распознает речь, GigaChat отвечает как клиент, статистика пишется в PostgreSQL. 
+- 🔮 **[Magic Ball](https://github.com/Dyndyks/gameball)** — Android-игра на Unity с использованием акселерометра.
+- 🤖 **[Telegram Bots]((https://github.com/Dyndyks/bottic-actoe)(https://github.com/Dyndyks/bot18-))** — Асинхронные боты на Aiogram.
