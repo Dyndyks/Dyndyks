@@ -12,4 +12,4 @@
 ## 🚀 Мои главные проекты
 - 🎮 **[Call Center Game](https://github.com/Dyndyks/call-center-project)** — Клиент-серверная игра с ИИ. Игрок говорит в микрофон, Vosk распознает речь, GigaChat отвечает как клиент, статистика пишется в PostgreSQL. 
 - 🔮 **[Magic Ball](https://github.com/Dyndyks/gameball)** — Android-игра на Unity с использованием акселерометра.
-- 🤖 **[[Actoe][18+]]((https://github.com/Dyndyks/bottic-actoe)(https://github.com/Dyndyks/bot18-))** — Асинхронные боты на Aiogram.
+- 🤖 **[Telegram Bots](https://github.com/Dyndyks/bot18-)** — Асинхронные боты на Aiogram.
